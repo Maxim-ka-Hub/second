@@ -1,0 +1,176 @@
+.header{
+        height: 100px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+    justify-content: flex-end;
+}
+.logo{
+    margin-right: auto;
+    margin-left:100px;
+}
+.headerlink{
+    margin-right: 30px ;
+}
+.link3{
+    margin-right: 90px;
+}
+.headerlink a:hover{
+    color: aqua;
+}
+.headerlink a{
+    text-decoration: none;
+    color: #191919;
+    text-transform: uppercase;
+}
+.banner{
+    width: 100%;
+    height: 350px;
+    background: url(./2.jpg) no-repeat;
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    text-align: center;
+}
+.Amelia{
+        
+}
+.I_am_a_Graphic{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.numbers{
+    width: 100%;
+    height: 240px;
+    background: #10C9C3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.number{
+    display: flex;
+    margin: 50px;
+}
+.i548{
+
+    color: white;
+    display: flex;
+    margin-left: 50px;
+}
+.projection_completed{
+    display: block;
+    color: white;
+    font-family: montserrat, sans-serif ;
+}
+.needproj{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    text-align: center;
+}
+.mainneed{
+    font-size: 5;
+    font-family: montserrat, sans-serif ;
+
+}
+.mainlets{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.letstalk{
+    background: #10C9C3;
+    width: 185px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    text-align: center;
+}
+.about{
+    width: 100%;
+    height: 575px;
+    background-color:#F5F5F5 ;
+}
+.about_img{
+width: 50%;
+height: 575px;
+float: left;
+object-fit: cover;
+}
+.about_text{
+    width: 50%;
+    height: 575px;
+    float: right;
+    display: flex;
+    flex-direction: column;
+}
+.about_text_head{
+    margin-left: 85px;
+    margin-top: 115px;
+    font-family: montserrat, sans-serif ;
+}
+.about_text_main{
+    margin-left: 100px;
+}
+.footer{
+    background-color: #141414;;
+    width: 100%;
+    height: 285px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    justify-content: center;
+    
+    
+}
+.content{
+    height: 90px;
+    width: 1140px;
+    display: flex;
+    justify-content: space-around;
+}
+.first{
+width: 225px;
+height: 85px;
+color: #FFFFFF;
+font-size: 18px;
+font-family: montserrat, sans-serif ;
+letter-spacing: 0.18px;
+}
+.allright{
+font-size: 15px;
+
+}
+.second{
+    width: 155px;
+    height: 35px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.email_hello{
+    text-decoration: none;
+    color: #FFFFFF;
+    
+
+}
+.third{
+    display: flex;
+    width: 165px;
+    height: 85px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.projects{
+    margin-right: auto;
+
+}
+.news{
+
+}
+.fourth{
+    width: 70px;
+    height: 85px;
+    font-family: 'Nunito Sans', sans-serif;
+}
